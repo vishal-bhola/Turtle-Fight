@@ -102,7 +102,7 @@ score.ht()
 
 
 
-os.chdir(r'F:\Projects\Python Projects') #Write the path of this file where you put it.Put it within the quotes .
+os.chdir(r'F:\Projects\Python Projects\TurtleGame') #Write the path of this file where you put it.Put it within the quotes .
 f = open("Turtlegame.txt",'r')# Put this file also in the same folder as TurtleGame.py is in
 value = int(f.read())
 
