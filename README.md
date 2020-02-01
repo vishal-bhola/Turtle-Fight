@@ -14,3 +14,7 @@ As your Score reached above the threshold of HighScore your HighScore will autom
 ## Movements
 
 * Use `LEFT or RIGHT ARROW KEYS` only to move your turtle.
+
+### Preview
+
+![game](https://user-images.githubusercontent.com/38592928/73596210-55ef6100-4546-11ea-999d-175250e31f95.png)
