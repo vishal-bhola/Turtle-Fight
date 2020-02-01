@@ -17,4 +17,5 @@ As your Score reached above the threshold of HighScore your HighScore will autom
 
 ### Preview
 
-![game](https://user-images.githubusercontent.com/38592928/73596210-55ef6100-4546-11ea-999d-175250e31f95.png)
+![game](https://user-images.githubusercontent.com/38592928/73596735-f0ea3a00-454a-11ea-9929-e69cbf0b0b41.png)
+
